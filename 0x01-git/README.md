@@ -1,1 +1,1 @@
-CREATED 0x01-git DIRECTORY
+Added directories 'bash,c,js'
